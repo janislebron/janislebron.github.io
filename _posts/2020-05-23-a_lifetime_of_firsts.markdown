@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Lifetime of Firsts"
-date:       2020-05-23 15:06:19 +0000
+date:       2020-05-23 11:06:20 -0400
 permalink:  a_lifetime_of_firsts
 ---
 
@@ -18,4 +18,4 @@ So, after about a month of heavy coding, networking with people in tech/transiti
 
 
 
-https://www.publicschoolreview.com/blog/the-15-biggest-failures-of-the-american-public-education-system
+``https://www.publicschoolreview.com/blog/the-15-biggest-failures-of-the-american-public-education-system
